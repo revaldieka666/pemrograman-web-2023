@@ -1,0 +1,25 @@
+nav {background-color: black;
+color: white
+}
+
+.Karyawan {
+    display: flex;
+    width: 50%;
+    margin-left:100px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+a {text-decoration: none;
+   color: azure;
+}
+
+form {
+    width: 30%;
+    margin: auto;
+    background-color: aqua;
+}
+th td{
+    padding: 5px;
+}
